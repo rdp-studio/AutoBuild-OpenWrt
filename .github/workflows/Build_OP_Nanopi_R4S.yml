@@ -13,6 +13,8 @@ on:
   
   #watch:
   #  types: [started]
+  
+  workflow_dispatch:
 
 jobs:
   OpenWrt-18_06:
